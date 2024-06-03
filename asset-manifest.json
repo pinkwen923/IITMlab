@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/IITMlab/static/css/main.a7b17b1b.css",
-    "main.js": "/IITMlab/static/js/main.209678f4.js",
-    "static/js/453.6b3401fd.chunk.js": "/IITMlab/static/js/453.6b3401fd.chunk.js",
+    "main.js": "/IITMlab/static/js/main.3c7cb1f9.js",
+    "static/js/787.746108f2.chunk.js": "/IITMlab/static/js/787.746108f2.chunk.js",
     "static/media/lab.png": "/IITMlab/static/media/lab.a7ed5babbb1818a39bf0.png",
     "static/media/b.jpg": "/IITMlab/static/media/b.507c9d257809fdce6d39.jpg",
     "static/media/6.jpg": "/IITMlab/static/media/6.893bf6b651867d9b66a0.jpg",
@@ -29,11 +29,11 @@
     "static/media/thesis.png": "/IITMlab/static/media/thesis.c2779d342c96e82c4853.png",
     "index.html": "/IITMlab/index.html",
     "main.a7b17b1b.css.map": "/IITMlab/static/css/main.a7b17b1b.css.map",
-    "main.209678f4.js.map": "/IITMlab/static/js/main.209678f4.js.map",
-    "453.6b3401fd.chunk.js.map": "/IITMlab/static/js/453.6b3401fd.chunk.js.map"
+    "main.3c7cb1f9.js.map": "/IITMlab/static/js/main.3c7cb1f9.js.map",
+    "787.746108f2.chunk.js.map": "/IITMlab/static/js/787.746108f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7b17b1b.css",
-    "static/js/main.209678f4.js"
+    "static/js/main.3c7cb1f9.js"
   ]
 }
