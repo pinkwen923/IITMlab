@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/IITMlab/static/css/main.a7b17b1b.css",
+    "main.js": "/IITMlab/static/js/main.209678f4.js",
+    "static/js/453.6b3401fd.chunk.js": "/IITMlab/static/js/453.6b3401fd.chunk.js",
+    "static/media/lab.png": "/IITMlab/static/media/lab.a7ed5babbb1818a39bf0.png",
+    "static/media/b.jpg": "/IITMlab/static/media/b.507c9d257809fdce6d39.jpg",
+    "static/media/6.jpg": "/IITMlab/static/media/6.893bf6b651867d9b66a0.jpg",
+    "static/media/3.jpg": "/IITMlab/static/media/3.bc8e64c1dd02867f4caa.jpg",
+    "static/media/lab.jpg": "/IITMlab/static/media/lab.bc8e64c1dd02867f4caa.jpg",
+    "static/media/1.jpg": "/IITMlab/static/media/1.f130afbac3dfc91485b9.jpg",
+    "static/media/4.jpg": "/IITMlab/static/media/4.d4ae9554a5e6a67395f4.jpg",
+    "static/media/5.jpg": "/IITMlab/static/media/5.d9e798d47ceeb7cf374b.jpg",
+    "static/media/2.jpg": "/IITMlab/static/media/2.312e39db4a1fdccd2b00.jpg",
+    "static/media/ic.jpg": "/IITMlab/static/media/ic.7598c388e1cbec766ffb.jpg",
+    "static/media/c.jpg": "/IITMlab/static/media/c.2b6fe50ebdb0e5b76cad.jpg",
+    "static/media/ie.jpg": "/IITMlab/static/media/ie.e27364cae349be096639.jpg",
+    "static/media/e.jpg": "/IITMlab/static/media/e.8a85b03b15bffb4851ad.jpg",
+    "static/media/d.jpg": "/IITMlab/static/media/d.76f512681b97d2c7438c.jpg",
+    "static/media/f.jpg": "/IITMlab/static/media/f.cf7145b30dd2a4f3e45a.jpg",
+    "static/media/a.jpg": "/IITMlab/static/media/a.1443c5095ae3c00eae72.jpg",
+    "static/media/im.jpg": "/IITMlab/static/media/im.38ad72716716a1f0e4fd.jpg",
+    "static/media/iitmlab1.png": "/IITMlab/static/media/iitmlab1.bbe63c8f31cb9638dad9.png",
+    "static/media/teacher.jpg": "/IITMlab/static/media/teacher.5220b3620f77f3fefdb9.jpg",
+    "static/media/research.png": "/IITMlab/static/media/research.9f6fca9191d60d07a597.png",
+    "static/media/meeting.png": "/IITMlab/static/media/meeting.92d529151846756fc6bd.png",
+    "static/media/reward.png": "/IITMlab/static/media/reward.378ca97023e70374fb4f.png",
+    "static/media/contact.png": "/IITMlab/static/media/contact.986eb24a5958ed5adc1e.png",
+    "static/media/thesis.png": "/IITMlab/static/media/thesis.c2779d342c96e82c4853.png",
+    "index.html": "/IITMlab/index.html",
+    "main.a7b17b1b.css.map": "/IITMlab/static/css/main.a7b17b1b.css.map",
+    "main.209678f4.js.map": "/IITMlab/static/js/main.209678f4.js.map",
+    "453.6b3401fd.chunk.js.map": "/IITMlab/static/js/453.6b3401fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7b17b1b.css",
+    "static/js/main.209678f4.js"
+  ]
+}
