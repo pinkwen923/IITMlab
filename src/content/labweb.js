@@ -6,6 +6,8 @@ function LabWeb() {
   return (
     <Routes>
       <Route path="/" element={<Home />} ></Route>
+      <Route path="/IITMlab" element={<Home />} ></Route>
+      <Route path="/iitmlab" element={<Home />} ></Route>
       <Route path="/Lab" element={<Lab />}></Route>
       <Route path="/Teacher" element={<Teacher />}></Route>
       <Route path="/patent" element={<Patent />}></Route>
