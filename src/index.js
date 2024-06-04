@@ -1,10 +1,10 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom/client';
 import './index.css';
 import LabWeb from './content/labweb';
 import Footer from './footer/footer';
 import reportWebVitals from './reportWebVitals';
-import { HashRouter as Router } from 'react-router-dom'; // 將 BrowserRouter 改為 HashRouter
+import {Route, BrowserRouter as Router}from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -14,4 +14,7 @@ root.render(
   </Router>
 );
 
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
