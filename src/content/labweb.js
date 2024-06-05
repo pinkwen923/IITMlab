@@ -1,9 +1,10 @@
-import { Routes, Route, Navigate } from "react-router-dom";
+import { Routes, Route, Navigate,HashRouter } from "react-router-dom";
 import { Home, About, Lab, Teacher, Patent, Thesis, PopularScience, Plan, Compete, Activity } from "./page";
 import { Error404 } from './page/404';
-
+import Footer from '../footer/footer';
 function LabWeb() {
   return (
+    
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/iitmlab" element={<Navigate to="/" />} />
@@ -17,6 +18,7 @@ function LabWeb() {
       <Route path="/activity" element={<Activity />} />
       <Route path="*" element={<Error404 />} />
     </Routes>
+  
   );
 }
 
