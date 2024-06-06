@@ -35,12 +35,12 @@ export function Activitypage() {
               </div>
               <div class="div_r">
 
-                <Link to="img1"><img src={require("../img/1.jpg")} alt=""></img></Link>
-                <Link to="img2"><img src={require("../img/2.jpg")} alt=""></img></Link>
-                <Link to="img3"><img src={require("../img/3.jpg")} alt=""></img></Link>
-                <Link to="img4"><img src={require("../img/4.jpg")} alt=""></img></Link>
-                <Link to="img5"><img src={require("../img/5.jpg")} alt=""></img></Link>
-                <Link to="img6"><img src={require("../img/6.jpg")} alt=""></img></Link>
+                <Link to="#img1"><img src={require("../img/1.jpg")} alt=""></img></Link>
+                <Link to="#img2"><img src={require("../img/2.jpg")} alt=""></img></Link>
+                <Link to="#img3"><img src={require("../img/3.jpg")} alt=""></img></Link>
+                <Link to="#img4"><img src={require("../img/4.jpg")} alt=""></img></Link>
+                <Link to="#img5"><img src={require("../img/5.jpg")} alt=""></img></Link>
+                <Link to="#img6"><img src={require("../img/6.jpg")} alt=""></img></Link>
 
 
               </div>
@@ -70,12 +70,12 @@ export function Activitypage() {
               </div>
               <div class="div_r">
 
-                <Link to="imga"><img src={require("../img/c.jpg")} alt=""></img></Link>
-                <Link to="imgb"><img src={require("../img/b.jpg")} alt=""></img></Link>
-                <Link to="imgc"><img src={require("../img/a.jpg")} alt=""></img></Link>
-                <Link to="imgd"><img src={require("../img/d.jpg")} alt=""></img></Link>
-                <Link to="imge"><img src={require("../img/e.jpg")} alt=""></img></Link>
-                <Link to="imgf"><img src={require("../img/f.jpg")} alt=""></img></Link>
+                <Link to="#imga"><img src={require("../img/c.jpg")} alt=""></img></Link>
+                <Link to="#imgb"><img src={require("../img/b.jpg")} alt=""></img></Link>
+                <Link to="#imgc"><img src={require("../img/a.jpg")} alt=""></img></Link>
+                <Link to="#imgd"><img src={require("../img/d.jpg")} alt=""></img></Link>
+                <Link to="#imge"><img src={require("../img/e.jpg")} alt=""></img></Link>
+                <Link to="#imgf"><img src={require("../img/f.jpg")} alt=""></img></Link>
 
 
               </div>

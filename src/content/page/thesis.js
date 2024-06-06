@@ -106,12 +106,7 @@ export function Thesispage() {
             </div>
 
           </div>
-          <div class="text-center" id="MyBlog">
-        <p><Link  to="top">回頂部</Link></p>
-        <p><Link  to="periodicals">期刊論文</Link></p>
-        <p><Link  to="global">國際研討會論文</Link></p>
-        <p><Link  to="domestic">國內研討會論文</Link></p>
-      </div>
+
         </div>
 
       </div>

@@ -55,11 +55,7 @@ export function Patentpage() {
             </div>
   
           </div>
-          <div class="text-center" id="MyBlog">
-        <p><Link  to="top">回頂部</Link></p>
-        <p><Link  to="invent">發明專利</Link></p>
-        <p><Link  to="new">新型專利</Link></p>
-      </div>
+
         </div>
         <div class="aa"></div>
       </body>

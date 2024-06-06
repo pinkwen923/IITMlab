@@ -80,9 +80,7 @@ export function Competepage() {
             </div>
 
           </div>
-          <div class="text-center" id="MyBlog">
-      <Link  to="#top">回頂部</Link>
-    </div>
+
         </div>
         
       </div>
