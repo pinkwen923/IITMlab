@@ -1,5 +1,6 @@
 import Header from "../../header/header";
 import "./page.css"
+import { Link } from "react-router-dom";
 export function Activitypage() {
   return (
     <body>
@@ -34,12 +35,12 @@ export function Activitypage() {
               </div>
               <div class="div_r">
 
-                <a href="#img1"><img src={require("../img/1.jpg")} alt=""></img></a>
-                <a href="#img2"><img src={require("../img/2.jpg")} alt=""></img></a>
-                <a href="#img3"><img src={require("../img/3.jpg")} alt=""></img></a>
-                <a href="#img4"><img src={require("../img/4.jpg")} alt=""></img></a>
-                <a href="#img5"><img src={require("../img/5.jpg")} alt=""></img></a>
-                <a href="#img6"><img src={require("../img/6.jpg")} alt=""></img></a>
+                <Link to="img1"><img src={require("../img/1.jpg")} alt=""></img></Link>
+                <Link to="img2"><img src={require("../img/2.jpg")} alt=""></img></Link>
+                <Link to="img3"><img src={require("../img/3.jpg")} alt=""></img></Link>
+                <Link to="img4"><img src={require("../img/4.jpg")} alt=""></img></Link>
+                <Link to="img5"><img src={require("../img/5.jpg")} alt=""></img></Link>
+                <Link to="img6"><img src={require("../img/6.jpg")} alt=""></img></Link>
 
 
               </div>
@@ -69,12 +70,12 @@ export function Activitypage() {
               </div>
               <div class="div_r">
 
-                <a href="#imga"><img src={require("../img/c.jpg")} alt=""></img></a>
-                <a href="#imgb"><img src={require("../img/b.jpg")} alt=""></img></a>
-                <a href="#imgc"><img src={require("../img/a.jpg")} alt=""></img></a>
-                <a href="#imgd"><img src={require("../img/d.jpg")} alt=""></img></a>
-                <a href="#imge"><img src={require("../img/e.jpg")} alt=""></img></a>
-                <a href="#imgf"><img src={require("../img/f.jpg")} alt=""></img></a>
+                <Link to="imga"><img src={require("../img/c.jpg")} alt=""></img></Link>
+                <Link to="imgb"><img src={require("../img/b.jpg")} alt=""></img></Link>
+                <Link to="imgc"><img src={require("../img/a.jpg")} alt=""></img></Link>
+                <Link to="imgd"><img src={require("../img/d.jpg")} alt=""></img></Link>
+                <Link to="imge"><img src={require("../img/e.jpg")} alt=""></img></Link>
+                <Link to="imgf"><img src={require("../img/f.jpg")} alt=""></img></Link>
 
 
               </div>

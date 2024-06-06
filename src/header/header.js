@@ -23,7 +23,7 @@ function Header() {
 
             <ul class="drop-down-menu nav ">
               <li class="nav-item"><a href="/" class="nav-link active" aria-current="page">首頁</a></li>
-              <li class=" nav-item"><Link to="/about" class="nav-link">介紹</Link>
+              <li class=" nav-item"><Link to="/lab" class="nav-link">介紹</Link>
                 <ul>
                   <li><Link to="/lab">實驗室</Link>
                   </li>
@@ -50,7 +50,7 @@ function Header() {
               <li class="nav-item"><Link to="/compete" class="nav-link">專題/競賽</Link>
                
               </li>
-              <li class="nav-item"><a href="/activity" class="nav-link">活動</a>
+              <li class="nav-item"><Link to="/activity" class="nav-link">活動</Link>
    
               </li>
               <li class="nav-item"><a href="" class="nav-link">計畫成果</a>

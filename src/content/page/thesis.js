@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Header from "../../header/header";
 import "./page.css"
 
@@ -106,10 +107,10 @@ export function Thesispage() {
 
           </div>
           <div class="text-center" id="MyBlog">
-        <p><a  href="#top">回頂部</a></p>
-        <p><a  href="#periodicals">期刊論文</a></p>
-        <p><a  href="#global">國際研討會論文</a></p>
-        <p><a  href="#domestic">國內研討會論文</a></p>
+        <p><Link  to="top">回頂部</Link></p>
+        <p><Link  to="periodicals">期刊論文</Link></p>
+        <p><Link  to="global">國際研討會論文</Link></p>
+        <p><Link  to="domestic">國內研討會論文</Link></p>
       </div>
         </div>
 

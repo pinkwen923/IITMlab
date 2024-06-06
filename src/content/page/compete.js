@@ -1,5 +1,6 @@
 import Header from "../../header/header";
 import "./page.css"
+import { Link } from "react-router-dom";
 export function Competepage() {
     return (
       <body>
@@ -80,7 +81,7 @@ export function Competepage() {
 
           </div>
           <div class="text-center" id="MyBlog">
-      <a  href="#top">回頂部</a>
+      <Link  to="#top">回頂部</Link>
     </div>
         </div>
         
