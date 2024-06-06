@@ -23,31 +23,31 @@ function Header() {
 
             <ul class="drop-down-menu nav ">
               <li class="nav-item"><a href="/" class="nav-link active" aria-current="page">首頁</a></li>
-              <li class=" nav-item"><a href="/lab" class="nav-link">介紹</a>
+              <li class=" nav-item"><Link to="/about" class="nav-link">介紹</Link>
                 <ul>
-                  <li><a href="/lab">實驗室</a>
+                  <li><Link to="/lab">實驗室</Link>
                   </li>
 
-                  <li><a href="/teacher">指導老師</a>
+                  <li><Link to="/teacher">指導老師</Link>
                   </li>
 
                 </ul>
               </li>
 
-              <li class="nav-item"><a href="/thesis" class="nav-link">發表</a>
+              <li class="nav-item"><Link to="/thesis" class="nav-link">發表</Link>
                 <ul>
-                <li><a href="/thesis">論文</a>
+                <li><Link to="/thesis">論文</Link>
                   </li>
-                  <li><a href="/patent">專利</a>
+                  <li><Link to="/patent">專利</Link>
                   </li>
 
-                  <li><a href="/popularscience">科普活動</a>
+                  <li><Link to="/popularscience">科普活動</Link>
                   </li>
-                  <li><a href="/plan">計畫</a>
+                  <li><Link to="/plan">計畫</Link>
                   </li>
                 </ul>
               </li>
-              <li class="nav-item"><a href="/compete" class="nav-link">專題/競賽</a>
+              <li class="nav-item"><Link to="/compete" class="nav-link">專題/競賽</Link>
                
               </li>
               <li class="nav-item"><a href="/activity" class="nav-link">活動</a>

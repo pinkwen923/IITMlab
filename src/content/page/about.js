@@ -129,7 +129,7 @@ export function Teacherpage() {
                     </tr>
                     <tr>
                       <td>中華民國資訊管理學會</td>
-                      <td>後補監事</td>
+                      <td>監事</td>
 
                     </tr>
                     <tr>

@@ -1,5 +1,6 @@
 import "./content.css";
 import Header from "../header/header";
+import { Link } from "react-router-dom";
 
 
 function Content() {
@@ -33,7 +34,7 @@ function Content() {
         <p class="display-6">智慧教育：整合機器學習與大數據分析於教育應用</p>
         <p class="display-6">智慧商務：整合物聯網、資料探勘與推薦技術於商務之應用</p>
         <p class="display-6">智慧醫療：整合影像辨識、資訊擷取與大數據分析於風險評估與疾病偵測</p>
-        <button class="btn"><a href="/lab">實驗室介紹</a></button>
+        <button class="btn"><Link to="/lab">實驗室介紹</Link></button>
       </div>
       
     </div>
@@ -44,7 +45,7 @@ function Content() {
         <p class="display-6">期刊論文共計25篇</p>
         <p class="display-6">國際研討會論文共計41篇</p>
         <p class="display-6">國內研討會論文共計53篇</p>
-        <button class="btn"><a href="/thesis">論文發表</a></button>
+        <button class="btn"><Link to="/thesis">論文發表</Link></button>
       </div>
       
     </div>
@@ -56,7 +57,7 @@ function Content() {
         <h2 class="display-5">獲獎紀錄</h2>
         <p class="display-6">於2011年積極參與各校各級賽事</p>
         <p class="display-6">至今已取得上百份獎項</p>
-        <button class="btn"><a href="/compete">獲獎紀錄</a></button>
+        <button class="btn"><Link to="/compete">獲獎紀錄</Link></button>
       </div>
       
     </div>
@@ -66,7 +67,7 @@ function Content() {
         <h2 class="display-5">內部活動</h2>
         <p class="display-6">從實驗室剛建立初期至今</p>
         <p class="display-6">期間所進行過大大小小的活動</p>
-        <button class="btn"><a href="/activity">內部活動</a></button>
+        <button class="btn"><Link to="/activity">內部活動</Link></button>
       </div>
       
     </div>
