@@ -116,19 +116,20 @@ export function Teacherpage() {
         <div class="d-md-flex flex-md-equal w-100  ps-md-3 justify-content-center ">
           <div class="bg-body-tertiary me-md-3 pt-3 px-3 pt-md-3 px-md-5 text-left overflow-hidden col-md-8">
             <div class="row featurette">
-              <div >
-              <p class="display-5 mt-md-5">現職</p>
-              <table class="table table-striped table-sm col-md-6">
+            <div>
+                <p class="display-5 mt-md-5">現職</p>
+                <table class="table table-striped table-sm col-md-6">
                   <tbody >
                     <tr>
-                      <td>國立高雄科技大學智慧商務系</td>
-                      <td>
-                        <tr>副教授</tr>
-                      </td>
-                    </tr>
+                      <td style={{width:"438px"}}>國立高雄科技大學智慧商務系 </td>
+                      <td>副教授</td>
 
+                    </tr>
                   </tbody>
                 </table>
+                
+              </div>
+                <div>
                 <p class="display-5 mt-md-5">經歷</p>
                 <table class="table table-striped table-sm col-md-6">
                   <tbody >
